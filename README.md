@@ -1,6 +1,6 @@
 # Ping
-Simple ping
-Compile:
+Simple ping \n
+Compile:   \n
     sudo make
     sudo chmod u+s myping
 Result:
